@@ -80,14 +80,6 @@ h6 {
 
 }
 
-.odd {
-    font-weight: 400;
-}
-
-.even {
-    font-weight: bold;
-}
-
 /*footer styles*/
 .sticky-footer {
     position: sticky;
